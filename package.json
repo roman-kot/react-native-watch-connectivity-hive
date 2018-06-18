@@ -1,16 +1,11 @@
 {
-  "name": "react-native-watch-connectivity-hive",
-  "version": "0.2.1",
-  "private": false,
+  "name": "rnwatch",
+  "version": "0.2.2",
+  "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "build": "babel Libraries/RNWatch/RNWatch.ios.js > Libraries/RNWatch/RNWatch.ios.build.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:Ataman11/react-native-watch-connectivity-hive.git"
-  },
-  "homepage": "https://github.com/Ataman11/react-native-watch-connectivity-hive",
   "dependencies": {
     "react": "16.3.2",
     "react-native": "^0.55.4",
