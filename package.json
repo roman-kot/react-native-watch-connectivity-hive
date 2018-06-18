@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Ataman11/react-native-watch-connectivity.git"
+    "url": "git+ssh://git@github.com:Ataman11/react-native-watch-connectivity-hive.git"
   },
-  "homepage": "https://github.com/Ataman11/react-native-watch-connectivity",
+  "homepage": "https://github.com/Ataman11/react-native-watch-connectivity-hive",
   "dependencies": {
     "react": "15.4.2",
     "react-native": "^0.41.2",
